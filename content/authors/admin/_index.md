@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Biotechnology
     institution: Panjab University
-#    year: 2021
+    year: 2021
   - course: Masters in Biotechnology
     institution: Tilka Manjhi Bhagalpur University
 #    year: 2010

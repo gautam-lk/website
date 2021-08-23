@@ -14,19 +14,18 @@ organizations:
   url: https://www.pgimer.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Application of data science in medicine and healthcare.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computational Biology
 - Information Retrieval
-- 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biotechnology
+  - course: Ph.D. in Biotechnology
     institution: Panjab University
     year: 2021
   - course: Masters in Biotechnology

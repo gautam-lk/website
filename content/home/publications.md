@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: 'Research Article'
     author: 'Lalit Kumar Gautam'
-    exclude_featured: false
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List

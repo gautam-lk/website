@@ -5,7 +5,7 @@
 
 title: Lalit Kumar Gautam # Website name
 baseurl: 'https://lkg.netlify.app/' # Website URL
-copyright: 'Lalit Kumar Gautam © {year}' # Footer text, e.g. '© {year} Me'
+copyright: ' © {year} Lalit Kumar Gautam' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

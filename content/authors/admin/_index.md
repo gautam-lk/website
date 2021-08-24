@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Biotechnology
+  - course: PhD in Biotechnology
     institution: Panjab University
     year: 2021
   - course: Masters in Biotechnology

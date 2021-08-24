@@ -46,10 +46,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6606-4408
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Lalit_Gautam/
+- icon: google-scholar   
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZRTSpRwAAAAJ&hl=en
 - icon: github

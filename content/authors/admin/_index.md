@@ -31,7 +31,7 @@ education:
     year: 2021
   - course: Masters in Biotechnology
     institution: Tilka Manjhi Bhagalpur University
-    year: 2010
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

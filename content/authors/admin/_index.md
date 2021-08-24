@@ -18,9 +18,10 @@ bio: My research interests include application of data science in medicine and h
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Computational Biology
-- Information Retrieval
+- Molecular Dynamics Simulations
+- Molecular Biology 
+- Protein Biochemistry
 
 # Education to show in About widget
 education:
@@ -78,4 +79,3 @@ He has submitted his Ph.D. thesis in Faculty of Science (Biotechnology) at Panja
 
 Presently at PGIMER, He is engaged in management of lab activities and maintenance of advanced analytical instruments in the department. Here He also operates confocal microscope for acquisition of bio-samples, HPLC for proteins analysis and qRT PCR. He teaches research methodologies to post graduate and Ph.D. students of research departments of PGIMER.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

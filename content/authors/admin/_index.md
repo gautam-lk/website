@@ -14,7 +14,7 @@ organizations:
   url: https://www.pgimer.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Application of data science in medicine and healthcare.
+bio: My research interests include application of data science in medicine and healthcare.
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ education:
     year: 2021
   - course: Masters in Biotechnology
     institution: Tilka Manjhi Bhagalpur University
-#    year: 2010
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,12 +39,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:lalit_kumar1122@yahoo.in'
 - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lkgautam
+  icon_pack: ai
+  link: https://twitter.com/lalitmanas
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6606-4408
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Lalit_Gautam/
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=ZRTSpRwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -58,7 +64,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/Lalit Kumar Gautam_CV1.pdf
+   link: uploads/Lalit_CV1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

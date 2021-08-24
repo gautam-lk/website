@@ -11,7 +11,7 @@ role: Demonstrator
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: PGIMER
-  url: https://www.pgimer.edu.in/
+  url: https:///
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include application of data science in medicine and healthcare.

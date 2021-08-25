@@ -22,19 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Demonstrator
+    company: Post Graduate Institute of Medical Education & Research
+    company_url: 'https://pgimer.edu.in/'
+ #   company_logo: org-gc
+    location: Chandigarh, India
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Aquisition and analysis of biological samples using Confocal Laser Scan Microscope.
+        * HPLC for protein analysis.
+        * Realtime PCR: Standarization, data optimization and analysis.
+        * Management of lab activities and maintenance of advanced analytical instruments in the department.
+
   - title: Research scholar
     company: Panjab Univesrity INDIA
     company_url: 'https://puchd.ac.in/'
  #   company_logo: org-gc
     location: Chandigarh, India
     date_start: '2013-12-01'
-    date_end: ''
+    date_end: '2020-12-10'
     description: |2-
         Responsibilities include:
         
         * Microbiology Research
-        * Ungraduate teaching
+        * Undergraduate teaching
         * Lab Management
+        
         
   - title: Research fellow
     company: Gautam Buddha University INDIA

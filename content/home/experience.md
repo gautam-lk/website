@@ -43,7 +43,7 @@ experience:
     location: Greater Noida
     date_start: '2012-10-01'
     date_end: '2013-11-01'
-    description: Worked on Characterization of Toxin antitoxin modules of *Xenorhabdus nematophila.
+    description: Worked on Characterization of Toxin antitoxin modules of *Xenorhabdus nematophila*.
 
 design:
   columns: '2'

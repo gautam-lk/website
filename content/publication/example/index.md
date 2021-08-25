@@ -21,9 +21,9 @@ doi: "10.1016/j.micres.2020.126627"
 #publishDate: "2017-01-01T00:00:00Z"
 
  Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+ Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+ 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+ 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
@@ -33,12 +33,12 @@ publication_short: In *MicRes*
 abstract: *Acinetobacter baumannii* is clinically one of the most significant pathogens, especially in intensive care settings, because of its multidrug-resistance (MDR). Repurposing of high-affinity drugs is a faster and more plausible approach for combating the emergence of MDR and to tackle bacterial infections. This study was aimed to evaluate the approved drugs potentially inhibiting *A. baumannii* PPK1 (AbPPK1) mediated synthesis of polyphosphates (polyP). Based on virtual screening, molecular dynamic simulation, and CD spectroscopy for thermal stability, two stable ligands, etoposide and genistein, were found with promising contours for further investigation. Following in vitro inhibition of AbPPK1, the efficacy of selected drugs was further tested against virulence traits of *A. baumannii*. These drugs significantly reduced the biofilm formation, surface motility in *A. baumannii* and led to decreased survival under desiccation. In addition to inhibition of PPK1, both drugs increased the expression of polyP degrading enzyme, exopolyphosphatase (PPX), that might be responsible for the decrease in the total cellular polyP. Since polyP modulates the virulence factors in bacteria, destabilization of the polyP pool by these drugs seems particularly striking for their therapeutic applications against *A. baumannii*.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [MD Simulation; PPK1 inhibition; Repurposed drugs; biofilm; desiccation; etoposide; genistein; virulence]
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -56,25 +56,25 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#  slides: example
 ---
 
 {{% callout note %}}

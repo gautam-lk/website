@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 75%
-  icon: camera-retro
+  icon: computer
   icon_pack: fas
   name: Molecular Dynamics
 - description: 85%
@@ -33,8 +33,8 @@ feature:
   icon_pack: fas
   name: Science Filmmaking
 - description: 75%
-  icon: machine-learning
-  icon_pack: fas
+  icon: ml
+  icon_pack: fab
   name: Machine Learning
 
 # Uncomment to use emoji icons.

@@ -44,6 +44,9 @@ social:
 - icon: twitter
   icon_pack: ai
   link: https://twitter.com/lalitmanas
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2522897/lalit-kumar-gautam/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6606-4408

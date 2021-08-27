@@ -16,6 +16,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50

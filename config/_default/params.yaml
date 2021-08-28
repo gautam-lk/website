@@ -34,8 +34,8 @@ coordinates:
   longitude: '76.768066'
 directions: 
 office_hours:
-  - 'Monday 09:00 to 17:00'
-  - 'Wednesday 09:00 to 13:00'
+  - 'Monday to Friday 09:00 to 17:00'
+  - 'Saturday 09:00 to 13:00'
 appointment_url: ' '
 contact_links:
   - icon: twitter

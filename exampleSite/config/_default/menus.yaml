@@ -18,13 +18,13 @@ main:
     weight: 40
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 60
   - name: Courses
     url: courses/
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80

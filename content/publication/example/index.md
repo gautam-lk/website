@@ -14,7 +14,7 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021"
+date: "2021-01"
 doi: "10.1016/j.micres.2020.126627"
 
 # Schedule page publish date (NOT publication's date).

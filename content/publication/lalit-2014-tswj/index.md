@@ -56,7 +56,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
- image: featured.jpg
+image: featured.jpg
 #  caption: 'Image credit: [**Flickr**](https://www.flickr.com/photos/sierraclub/5614958114)' 
 #  focal_point: ""
 #  preview_only: false

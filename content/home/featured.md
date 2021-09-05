@@ -10,8 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: "Attenuation of Acinetobacter baumannii
-virulence by inhibition of polyphosphate kinase 1 with repurposed drugs"
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...

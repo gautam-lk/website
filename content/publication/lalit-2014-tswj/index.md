@@ -24,8 +24,8 @@ doi: "10.1155/2014/428159"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*TheScientificWorldJournal, 2014*(2014), 428159"
-publication_short: "TSWJ"
+publication: "*The Scientific World Journal, 2014*(2014), 428159"
+publication_short: ""
 
 abstract: Bacterial toxin-antitoxin (TA) complexes induce programmed cell death and also function to relieve cell from stress by various response mechanisms. *Escherichia coli* RelB-RelE TA complex consists of a RelE toxin functionally counteracted by RelB antitoxin. In the present study, a novel homolog of RelE toxin designated as Xn-relE toxin from *Xenorhabdus nematophila* possessing its own antitoxin designated as Xn-relEAT has been identified. Expression and purification of recombinant proteins under native conditions with GST and Ni-NTA chromatography prove the existence of novel TA module. The expression of recombinant Xn-relE under tightly regulated ara promoter in *E. coli* Top 10 cells confirms its toxic nature in endogenous toxicity assay. The neutralization activity in endogenous toxicity assay by Xn-relEAT antitoxin confirms its antidote nature when studying the whole TA operon under ara regulated promoter. This study promotes newly discovered TA module to be regarded as important as other proteins of type II toxin-antitoxin system.
 

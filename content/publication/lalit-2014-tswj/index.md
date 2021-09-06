@@ -1,5 +1,5 @@
 ---
-title: Expression, purification, and functional analysis of novel RelE operon from X. nematophila
+title: Expression, purification, and functional analysis of novel RelE operon from *X. nematophila*
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,8 +7,6 @@ title: Expression, purification, and functional analysis of novel RelE operon fr
 authors:
 - Jitendra Singh Rathore
 - admin
-
-
 
 # Author notes (optional)
 author_notes: ""
@@ -27,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The Scientific World Journal, 2014*(2014), 428159"
-publication_short: "The Scientific World Journal"
+publication_short: ""
 
 abstract: Bacterial toxin-antitoxin (TA) complexes induce programmed cell death and also function to relieve cell from stress by various response mechanisms. *Escherichia coli* RelB-RelE TA complex consists of a RelE toxin functionally counteracted by RelB antitoxin. In the present study, a novel homolog of RelE toxin designated as Xn-relE toxin from *Xenorhabdus nematophila* possessing its own antitoxin designated as Xn-relEAT has been identified. Expression and purification of recombinant proteins under native conditions with GST and Ni-NTA chromatography prove the existence of novel TA module. The expression of recombinant Xn-relE under tightly regulated ara promoter in *E. coli* Top 10 cells confirms its toxic nature in endogenous toxicity assay. The neutralization activity in endogenous toxicity assay by Xn-relEAT antitoxin confirms its antidote nature when studying the whole TA operon under ara regulated promoter. This study promotes newly discovered TA module to be regarded as important as other proteins of type II toxin-antitoxin system.
 
@@ -57,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image: featured.jpg
-#   caption: ""
-#   focal_point: ""
-#   preview_only: false
+#  image: featured.jpg
+#  caption: 'Image credit: [**Flickr**](https://www.flickr.com/photos/sierraclub/5614958114)' 
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

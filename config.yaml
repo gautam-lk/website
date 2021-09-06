@@ -1,4 +1,3 @@
-theme: "starter-hugo-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -6,7 +5,7 @@ theme: "starter-hugo-academic"
 
 title: Lalit Kumar Gautam # Website name
 baseurl: 'https://lkg.netlify.app/' # Website URL
-copyright: '© {year} Lalit Kumar Gautam' # Footer text, e.g. 
+copyright: ' © {year} Lalit Kumar Gautam' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -39,7 +38,6 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: '/talk/:slug/'
-  authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'

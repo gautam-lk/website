@@ -19,10 +19,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
+    author: "Gautam LK, Sharma P and Capalash N"
+    category: "Publication"
+    publication_type: "Research Article"
+    tag: "MD Simulation; PPK1 inhibition; Repurposed drugs; biofilm; desiccation; etoposide; genistein; virulence"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---

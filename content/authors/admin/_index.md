@@ -10,7 +10,7 @@ role: Demonstrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PGIMER
+- name: PGIMER, Chandigarh
   url: https://www.pgimer.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,17 +64,17 @@ social:
   link: https://www.linkedin.com/in/lalit-kumar-gautam-51512623/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: static/uploads/resume.pdf
+# To use copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml` 
+# and uncomment the lines below
+#- icon: cv
+#  icon_pack: ai
+#  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Lalit Kumar Gautam is working as a Demonstrator at Central Sophisticated Instrumentation Cell (CSIC) at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, India. 

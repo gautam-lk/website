@@ -23,44 +23,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Demonstrator
-    company: Post Graduate Institute of Medical Education & Research
+    company: PGIMER
     company_url: 'https://pgimer.edu.in/'
- #   company_logo: org-gc
-    location: Chandigarh, India
+    #company_logo: org-pgimer
+    location: Chandigarh
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Aquisition and analysis of biological samples using Confocal Laser Scan Microscope.
-        * HPLC for protein analysis.
-        * Realtime PCR: Standarization, data optimization and analysis.
-        * Management of lab activities and maintenance of advanced analytical instruments in the department.
-
-  - title: Research scholar
-    company: Panjab Univesrity INDIA
+        * Aquisition and analysis of biological samples using Confocal Laser Scan Microscope, HPLC, Realtime PCR
+        * Management of lab activities and maintenance of advanced analytical instruments
+        
+        
+  - title: Research Scholar, SRF
+    company: Panjab University
     company_url: 'https://puchd.ac.in/'
- #   company_logo: org-gc
+    #company_logo: org-x
     location: Chandigarh, India
-    date_start: '2013-12-01'
-    date_end: '2020-12-10'
-    description: |2-
-        Responsibilities include:
-        
-        * Microbiology Research
-        * Undergraduate teaching
-        * Lab Management
-        
-        
-  - title: Research fellow
-    company: Gautam Buddha University INDIA
-    company_url: 'https://gbu.ac.in/'
-    company_logo: 
-    location: Greater Noida
-    date_start: '2012-10-01'
-    date_end: '2013-11-01'
-    description: Worked on Characterization of Toxin antitoxin modules of *Xenorhabdus nematophila*.
-
+    date_start: '2016-07-01'
+    date_end: '2019-06-30'
+    #description: Ph.D.
+  - title: Junior Research Fellow
+    company: Panjab University, Chandigarh
+    company_url: 'https://puchd.ac.in/'
+    location: Chandigarh, India
+    date_start: '2016-07-01'
+    date_end: '2013-12-10'
+    #description: Ph.D
 design:
   columns: '2'
 ---

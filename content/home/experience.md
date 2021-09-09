@@ -25,7 +25,7 @@ experience:
   - title: Demonstrator
     company: PGIMER
     company_url: 'https://pgimer.edu.in/'
-    #company_logo: org-pgimer
+    company_logo: pgimer-logo
     location: Chandigarh
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Scholar, SRF
     company: Panjab University
     company_url: 'https://puchd.ac.in/'
-    #company_logo: org-x
+    company_logo: pu
     location: Chandigarh, India
     date_start: '2016-07-01'
     date_end: '2019-06-30'
@@ -47,6 +47,7 @@ experience:
   - title: Junior Research Fellow
     company: Panjab University, Chandigarh
     company_url: 'https://puchd.ac.in/'
+    company_logo: pu
     location: Chandigarh, India
     date_start: '2016-07-01'
     date_end: '2013-12-10'

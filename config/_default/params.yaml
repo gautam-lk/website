@@ -20,32 +20,40 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: lalit_kumar1122@hotmail.com
-phone: 8434758788
+email: lalit_kumar1122@yahoo.in
+phone: 0
 address:
-  street: Sector 12
+  street: #2027A, CSIC, PGIMER
   city: Chandigarh
-  region: Chandigarh
+  region: Sector 12
   postcode: '160012'
   country: India
   country_code: IN
 coordinates:
-  latitude: '30.7634165'
-  longitude: '76.7730092'
+  latitude: '30.741482'
+  longitude: '76.768066'
 directions: 
 office_hours:
   - 'Monday to Friday 09:00 to 17:00'
   - 'Saturday 09:00 to 13:00'
-#appointment_url: 'https://calendly.com'
+appointment_url: ' '
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/lalitmanas'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:echo123?call'
+  - icon: keybase
+    icon_pack: fab
+    name: Chat on Keybase
+    link: 'https://keybase.io/'
+  - icon: comments
+    icon_pack: fas
+    name: Discuss on Forum
+    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -69,8 +77,6 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-  - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -135,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: mapnik
+  provider: ''
   api_key: ''
   zoom: 15
 marketing:

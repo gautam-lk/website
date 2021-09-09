@@ -48,7 +48,11 @@ feature:
   icon: file-excel
   icon_pack: fas
   name: MS Excel
-
+- description: 70%
+  icon: laptop-code
+  icon_pack: fab
+  name: MD Simulation
+  
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji

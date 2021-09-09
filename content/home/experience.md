@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Aquisition and analysis of biological samples using Confocal Laser Scan Microscope, HPLC, Realtime PCR
         * Management of lab activities and maintenance of advanced analytical instruments
         

@@ -9,6 +9,6 @@ tags:
 - Medicine
 - AMR
 - Repurposing
-- Drug desinging
+- drug designing
 title: Precision medicine for AMR pathogens
 ---

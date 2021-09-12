@@ -48,8 +48,8 @@ experience:
     company_url: 'https://puchd.ac.in/'
     company_logo: pu
     location: Chandigarh, India
-    date_start: '2016-07-01'
-    date_end: '2013-12-10'
+    date_start: '2013-12-10'
+    date_end: '2016-07-01'
     #description: Ph.D
 design:
   columns: '2'

@@ -13,15 +13,15 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: 'Lalit Kumar Gautam'
+org_name: 'PGIMER'
+description: 'Personal website - Portfolio'
+twitter: 'https://twitter.com/lalitmanas'
 
 # Contact (edit or remove options as required)
 
 email: lalit_kumar1122@hotmail.com
-phone: 8434758788
+phone: 8434785788
 address:
   street: Sector 12
   city: Chandigarh

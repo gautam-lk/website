@@ -12,7 +12,7 @@ role: Demonstrator
 organizations:
 - name: PGIMER, Chandigarh
   url: https://www.pgimer.edu.in/
-  company_logo: pgimer-logo
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include application of data science in medicine and healthcare.

@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*Journal of molecular modeling, 23(6)*, 189"
 publication_short: "Journal of molecular modeling"
 
-abstract: Toxin-antitoxin (TA) complexes play an important role in stress responses and programmed cell death in bacteria. The RelB-RelE toxin antitoxin system is well studied in *Escherichia coli*. In this study, we used combined *in silico* and *in vitro* approaches to study a novel Xn-RelT toxin from *Xenorhabdus nematophila* bearing its own antitoxin Xn-RelAT-a RelB homolog of *E. coli*. The structure for this toxin-antitoxin pair is yet unknown. We generated homology-based models of *X. nematophila* RelT toxin and antitoxin. The deduced models were further characterized for protein-nucleic acid, protein-protein interactions and gene ontology. A detrimental effect of recombinant Xn-RelT on host *E. coli* was determined through endogenous toxicity assay. When expressed from a isopropyl *β*-D-1-thiogalactopyranoside-regulated LacZ promoter, Xn-RelT toxin showed a toxic effect on *E. coli* cells. These observations imply that the conditional cooperativity governing the Xn-RelT TA operon in *X. nematophila* plays an important role in stress management and programmed cell death.
+abstract: <p style="text-align:justify;">Toxin-antitoxin (TA) complexes play an important role in stress responses and programmed cell death in bacteria. The RelB-RelE toxin antitoxin system is well studied in <i>Escherichia coli</i>. In this study, we used combined <i>in silico<i> and <i>in vitro</i> approaches to study a novel Xn-RelT toxin from <i>Xenorhabdus nematophila</i> bearing its own antitoxin Xn-RelAT-a RelB homolog of <i>E. coli</i>. The structure for this toxin-antitoxin pair is yet unknown. We generated homology-based models of <i>X. nematophila</i> RelT toxin and antitoxin. The deduced models were further characterized for protein-nucleic acid, protein-protein interactions and gene ontology. A detrimental effect of recombinant Xn-RelT on host <i>E. coli</i> was determined through endogenous toxicity assay. When expressed from a isopropyl <i>β</i>-D-1-thiogalactopyranoside-regulated LacZ promoter, Xn-RelT toxin showed a toxic effect on <i>E. coli</i> cells. These observations imply that the conditional cooperativity governing the Xn-RelT TA operon in <i>X. nematophila</i> plays an important role in stress management and programmed cell death.</p>
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -39,6 +39,7 @@ tags:
 - TA systems
 - Xn-RelT toxin
 - mRNA degradation
+- programmed cell death
 
 # Display this page in the Featured widget?
 featured: true

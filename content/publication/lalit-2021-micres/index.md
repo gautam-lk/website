@@ -33,10 +33,14 @@ abstract: "*Acinetobacter baumannii* is clinically one of the most significant p
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- Toxin-antitoxin
-- TA systems
-- Programmed cell death
-- endotoxin
+- MD Simulation
+- PPK1 inhibition
+- Repurposed drugs
+- biofilm;
+- desiccation
+- etoposide
+- genistein
+- virulence.
 
 # Display this page in the Featured widget?
 featured: true

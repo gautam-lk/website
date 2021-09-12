@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2021-09-10"
+external_link: ""
 image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+#  caption: Photo by Toa Heftiba on Unsplash
+#  focal_point: Smart
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
-title: External Project
+title: Precision medicine for AMR pathogens
 ---

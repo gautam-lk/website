@@ -1,5 +1,5 @@
 ---
-title: "Expression, purification, and functional analysis of novel RelE operon from X. nematophila"
+title: "<p style="text-align:justify;">Expression, purification, and functional analysis of novel RelE operon from X. nematophila</p>"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

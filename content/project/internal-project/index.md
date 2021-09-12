@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/lalitmanas
-slides: example
+#slides: example
 summary: Omics.
 tags:
 - Deep Learning

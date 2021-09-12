@@ -36,11 +36,11 @@ tags:
 - MD Simulation
 - PPK1 inhibition
 - Repurposed drugs
-- biofilm;
+- biofilm
 - desiccation
 - etoposide
 - genistein
-- virulence.
+- virulence
 
 # Display this page in the Featured widget?
 featured: true

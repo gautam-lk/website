@@ -13,6 +13,9 @@ links:
 summary: Omics.
 tags:
 - Deep Learning
+- Chemi-informatics
+- Omics
+- Annotation
 title: PolyP-ome
 url_code: ""
 url_pdf: ""

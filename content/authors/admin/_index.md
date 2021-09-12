@@ -12,6 +12,7 @@ role: Demonstrator
 organizations:
 - name: PGIMER, Chandigarh
   url: https://www.pgimer.edu.in/
+  company_logo: pgimer-logo
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include application of data science in medicine and healthcare.
@@ -78,7 +79,6 @@ highlight_name: true
 ---
 
 Lalit Kumar Gautam is working as a Demonstrator at Central Sophisticated Instrumentation Cell (CSIC) at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, India. 
-He has submitted his Ph.D. thesis in Faculty of Science (Biotechnology) at Panjab University, India. His Ph.D. project was focused on the role of polyphosphate kinase 1 (PPK1) in the virulence and pathogenesis of *Acinetobacter baumannii* and identification of high affinity inhibitor against this target enzyme. He got success in identifying the PPK1 inhibitor form approved drugs for their re-purposing. During his research training, he has published research and review articles in international journals of repute. Apart from research, he was actively engaged in laboratory management and teaching undergraduate classes during Ph.D. Before joining Ph.D., He worked in Dr. Rathore’s Lab as research fellow in Government of India funded research project at Gautam Buddha University, Greater Noida, India. There, he worked on toxin antitoxin (TA) modules in *Xenorhabdus nematophila* and characterized three TA modules, which is evident from his publications. His first exposure to molecular biology was from Dr. Gourinath’s Lab, School of Life science, Jawaharlal Nehru University, India where he did my Master’s dissertation on the cloning, purification and crystallization trials of S-acetyltransferase 3 from *Entamoeba histolytica*. 
-
-Presently at PGIMER, he is engaged in management of lab activities and maintenance of advanced analytical instruments in the department. Here He also operates confocal microscope for acquisition of bio-samples, HPLC for proteins analysis and qRT PCR. He teaches research methodologies to post graduate and Ph.D. students of research departments of PGIMER.
+He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. His Ph.D. project was focused on the role of polyphosphate kinase 1 (PPK1) in the virulence and pathogenesis of *Acinetobacter baumannii* and identification of high affinity inhibitor against this target enzyme. He got success in identifying the PPK1 inhibitor form approved drugs for their re-purposing. During his research training, he has published research and review articles in international journals of repute. Apart from research, he was actively engaged in laboratory management and teaching undergraduate classes during Ph.D. Before joining Ph.D., He worked in Dr. Rathore’s Lab as research fellow in Government of India funded research project at Gautam Buddha University, Greater Noida, India. There, he worked on toxin antitoxin (TA) modules in *Xenorhabdus nematophila* and characterized three TA modules, which is evident from his publications. 
+Presently, he is engaged in management of lab activities and maintenance of advanced analytical instruments at PGIMER. Here he also operates confocal microscope for acquisition of bio-samples, HPLC for proteins analysis and qRT PCR. He teaches research methodologies to post graduate and Ph.D. students of research departments of PGIMER.
 

@@ -3,7 +3,7 @@ abstract:
 address:
   city: Chandigarh
   country: India
-  postcode: "94305"
+  postcode: "160012"
   region: In
   street: Sector 12
 all_day: false

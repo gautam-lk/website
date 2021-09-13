@@ -26,9 +26,9 @@ projects:
 - internal-project
 publishDate: "2021-06-03T00:00:00Z"
 #slides: example
-summary: An example talk.
+summary: talk.
 tags: []
-title: Example Talk
+title: Talk
 url_code: ""
 url_pdf: ""
 url_slides: ""

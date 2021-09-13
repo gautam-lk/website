@@ -25,7 +25,7 @@ location: Chandigarh
 projects:
 - internal-project
 publishDate: "2021-06-03T00:00:00Z"
-slides: example
+#slides: example
 summary: An example talk.
 tags: []
 title: Example Talk

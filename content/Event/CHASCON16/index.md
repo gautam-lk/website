@@ -1,5 +1,5 @@
 ---
-title: An insight into Acinetobacter baumannii polyphosphate kinase (AbPPK) structure and its protein ligand complex: an in silico approach for inhibitor screening
+title: "An insight into Acinetobacter baumannii polyphosphate kinase (AbPPK) structure and its protein ligand complex: an in silico approach for inhibitor screening"
 
 event: 10th Chandigarh Science Congress (CHASCON 2016)
 event_url: 
@@ -68,4 +68,4 @@ slides: ""
 projects: []
 ---
 
-"Lalit Kumar Gautam presented a research poster titled **An insight into Acinetobacter baumannii polyphosphate kinase (AbPPK) structure and its protein ligand complex: an in silico approach for inhibitor screening** at 10th Chandigarh Science Congress (CHASCON 2016)"
+"Lalit Kumar Gautam presented a research poster titled **An insight into Acinetobacter baumannii polyphosphate kinase (AbPPK) structure and its protein ligand complex- an in silico approach for inhibitor screening** at 10th Chandigarh Science Congress (CHASCON 2016)"

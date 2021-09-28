@@ -1,5 +1,5 @@
 ---
-title: Pharmacophore based screening and identification of natural compounds for inhibition of *Acinetobacter baumannii* polyphosphate kinase (AbPPK) and in vitro validation
+title: Pharmacophore based screening and identification of natural compounds for inhibition of Acinetobacter baumannii polyphosphate kinase (AbPPK) and in vitro validation
 
 event: New development in drug discovery from natural products and traditional medicines (DDNPTM-2018)
 event_url: http://niper.gov.in/archives/2018_PressRelease_DDNPTM.pdf

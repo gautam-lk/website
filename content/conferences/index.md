@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: conferences
 headless: true
 weight: 10
 

@@ -4,7 +4,7 @@ external_link:
 #image:
 #  caption: Photo by Toa Heftiba on Unsplash
 #  focal_point: Smart
-summary: Study of endogenous Toxins and their cognate toxin in bacteria (*Xenorhabdus nematophila*). These study is based on finctional characterization of RelBE and MazEF TA modules
+summary: Study of endogenous Toxins and their cognate toxin in bacteria (*Xenorhabdus nematophila*). The study is focused on functional characterization of RelBE and MazEF TA modules
 tags:
 - Toxin-Antitoxin
 - Virulence

@@ -28,7 +28,7 @@ item:
   date_start: "2020-07-11"
   description: "Indo-US webinar"
   organization: Panab University
-  organization_url:""
+  organization_url: https://www.datacamp.com
   title: "SARS-CoV-2 transport and shipping, SARS -CoV-2 laboratory emergency response, SARS-CoV-2 and Covid-19 risk communication”
   url: ""
 
@@ -37,7 +37,7 @@ item:
   date_start: "2020-06-27"
   description: "International Webinar"
   organization: Association of Microbiologists of India – Chandigarh Unit
-  organization_url: ""
+  organization_url: https://www.datacamp.com
   title: "Emerging potential of Arttificial intelligenec in Microbiological research in Covid-19 era"
   url: ""
   
@@ -46,7 +46,7 @@ item:
   date_start: "2020-06-06"
   description: "International Webinar"
   organization: Department of Zoology, Chhotu Ram Arya College, Sonepat, India
-  organization_url: ""
+  organization_url: https://www.datacamp.com
   title: "Update on Covid 19 Vaccine Trials"
   url: ""
   
@@ -55,7 +55,7 @@ item:
   date_start: "2020-04-27"
   description: "Webinar"
   organization: Department of Biotechnology, Panjab University, Chandigarh
-  organization_url:"" 
+  organization_url: https://www.datacamp.com 
   title: "Recent Advances in Biotechnology"
   url: ""
   
@@ -64,7 +64,7 @@ item:
   date_start: "2019-02-12"
   description: "Seminar"
   organization: Department of Biotechnology, Panjab University, Chandigarh
-  organization_url: ""
+  organization_url: https://www.datacamp.com
   title: "Communicable and Non-communicable Disease: Latest Therapeutics Interventions"
   url: ""
   
@@ -74,7 +74,7 @@ item:
   date_start: "2020-06-27"
   description: "International Webinar"
   organization: Association of Microbiologists of India – Chandigarh Unit
-  organization_url: ""
+  organization_url: https://www.datacamp.com
   title: "Emerging potential of Arttificial intelligenec in Microbiological research in Covid-19 era"
   url: ""
   

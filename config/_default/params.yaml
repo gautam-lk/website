@@ -23,8 +23,8 @@ twitter: 'https://twitter.com/lalitmanas'
 email: lalit_kumar1122@hotmail.com
 phone: 8434785788
 address:
-  street: Department of CSIC, PGIMER, Sector 12
-  city: Chandigarh
+  street: 2027A, Department of CSIC, PGIMER 
+  city: Sector 12, Chandigarh
   region: Chandigarh
   postcode: '160012'
   country: India
@@ -36,7 +36,7 @@ directions:
 office_hours:
   - 'Monday to Friday 09:00 to 17:00'
   - 'Saturday 09:00 to 13:00'
-#appointment_url: 'https://calendly.com'
+#   appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab

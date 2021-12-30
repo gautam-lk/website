@@ -23,8 +23,8 @@ doi: " "
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ph.D Thesis (2021)"
-publication_short: "Ph.D Thesis (2021)"
+publication: "*Ph.D Thesis (Panjab Univesity)"
+publication_short: "Ph.D Thesis (Panjab Univesity)"
 
 abstract: "*Acinetobacter baumannii* is one of the most significant nosocomial pathogen responsible for substantial morbidity and mortality due to multidrug resistance. Polyphosphates (polyP) are important for the production of virulence factors and stress management in bacteria. PolyP is synthesized by polyphosphate kinase (PPK) which is highly conserved among microorganisms. In this study polyphosphate kinase 1 of *A. baumannii* ATCC 17978 (AbPPK1) was cloned and expressed in *E. coli* BL21 (DE3). Enzyme activity of 80 kDa recombinant AbPPK1 and its mutants, AbPPK1H443P and AbPPK1H443P-H601A was 299.86±66, 236.14±13.8 and 121±8.7 μM/min, respectively. Reduced activity of mutants highlighted the importance of active site histidines at position 443 and 601 for AbPPK1 activity. Virtual screening of synthetic and natural compounds and FDA approved drugs allowed the selection of etoposide and genistein which competitively inhibited AbPPK1 at IC50 of 27.53 and 24.38 μM, respectively. These molecules reduced the production of virulence factors in A. baumannii. There was significant (p≤0.05) reduction in biofilm formation and surface motility in *A. baumannii* ATCC 17978 and the clinical isolates. Genistein in combination with tobramycin further reduced biofilm formation in *A. baumannii*. Etoposide and genistein led to decrease in survival of *A. baumannii* under desiccation conditions. RNA polymerase sigma factor, rpoS, critical for survival and virulence, was down-regulated by etoposide and gensitein. The expression of exopolyphosphatase (PPX), polyP degrading enzyme was increased with concomitant reduction in cellular polyP level, critical for the production of virulence determinants. In the absence of PPK orthologue in humans, etoposide and genistein could be sought as novel therapeutic option to supplement the existing antibiotics against *A. baumannii*."
 

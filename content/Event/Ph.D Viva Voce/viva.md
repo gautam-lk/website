@@ -1,6 +1,6 @@
 
 ---
-title: Role of polyphosphate kinase in virulence and stress responses of *Acinetobacter baumannii*
+title: Role of polyphosphate kinase in virulence and stress responses of Acinetobacter baumannii
 
 event: Ph.D Viva voce 
 event_url: NA

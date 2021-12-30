@@ -13,7 +13,7 @@ address:
   postcode: '160014'
   country: India
 
-summary: Thesis Defence
+summary: Ph.D. Thesis Defence
 abstract: 
 
 # Talk start and end times.

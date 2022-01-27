@@ -76,6 +76,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<span id="badgeCont375"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont375&rid=G-5768-2014"></script></span>
 
 <p style="text-align:justify;">Lalit Kumar Gautam is working as Demonstrator at Central Sophisticated Instrumentation Cell (CSIC), Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, India. </p>
 <p style="text-align:justify;">He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. His doctoral project was focused on the role of polyphosphate kinase 1 (PPK1) in the virulence and pathogenesis of <i>Acinetobacter baumannii</i> and identification of high affinity inhibitor against this target enzyme. He got success in identifying the PPK1 inhibitor form approved drugs for their re-purposing. During his research training, he has published research and review articles in international journals of repute. Apart from research, he was actively engaged in laboratory management and teaching undergraduate classes during Ph.D. Before joining Ph.D., He worked in Dr. Rathore’s Lab as research fellow in Government of India funded research project at Gautam Buddha University, Greater Noida, India. There, he worked on toxin antitoxin (TA) modules in <i>Xenorhabdus nematophila</i> and characterized three TA modules, which is evident from his publications.</p> 

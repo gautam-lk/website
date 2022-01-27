@@ -13,8 +13,6 @@ organizations:
 - name: PGIMER, Chandigarh
   url: https://www.pgimer.edu.in/
   
-<span id="badgeCont375"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont375&rid=G-5768-2014"></script></span>
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include application of data science in medicine and healthcare.
 

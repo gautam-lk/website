@@ -6,11 +6,11 @@ title: Lalit Kumar Gautam
 superuser: true
 
 # Role/position/tagline
-role: Demonstrator
+role: Post Doctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PGIMER, Chandigarh
+- name: University of Iowa
   url: https://www.pgimer.edu.in/
   
 # Short bio (displayed in user profile at end of posts)

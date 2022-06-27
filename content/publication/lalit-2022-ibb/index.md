@@ -28,7 +28,7 @@ doi: "10.1016/j.ibiod.2022.105455"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication  name.
 publication: "*International Biodeterioration & Biodegradation, 173*(2022)"
 publication_short: "International Biodeterioration & Biodegradation"
 

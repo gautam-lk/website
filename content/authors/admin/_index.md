@@ -61,7 +61,7 @@ social:
   link: https://github.com/gautam-lk
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/lalit-kumar-gautam-51512623/
+  link: https://www.linkedin.com/in/lalit-kumar-gautam-ph-d-51512623/
 
 # Link to a PDF of your resume/CV.
 # To use copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml` 

@@ -14,7 +14,7 @@ font_size: L
 
 site_type: Person
 local_business_type: 'Lalit Kumar Gautam'
-org_name: 'PGIMER'
+org_name: 'University of Iowa'
 description: 'Personal website - Portfolio'
 twitter: 'https://twitter.com/lalitmanas'
 
@@ -23,19 +23,19 @@ twitter: 'https://twitter.com/lalitmanas'
 email: lalit_kumar1122@hotmail.com
 phone: 8434785788
 address:
-  street: 2027A, Department of CSIC, PGIMER 
-  city: Sector 12, Chandigarh
-  region: Chandigarh
-  postcode: '160012'
-  country: India
-  country_code: IN
+  street: 1-400, Anatomy and Cell Biology, Bowen Science Building,
+  city: Iowa City, 
+  region: Iowa
+  postcode: '52242'
+  country: USA
+  country_code: US
 coordinates:
-  latitude: '30.7634165'
-  longitude: '76.7730092'
+  latitude: ''
+  longitude: ''
 directions: 
 office_hours:
-  - 'Monday to Friday 09:00 to 17:00'
-  - 'Saturday 09:00 to 13:00'
+  - 'Monday to Friday 08:00 to 17:00'
+  - ''
 #  appointment_url: 'https://calendly.com/'
 contact_links:
   - icon: twitter

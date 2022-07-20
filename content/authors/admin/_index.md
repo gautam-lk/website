@@ -6,18 +6,20 @@ title: Lalit Kumar Gautam
 superuser: true
 
 # Role/position/tagline
-role: Demonstrator
+role: Post Doctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PGIMER, Chandigarh
-  url: https://www.pgimer.edu.in/
+- name: University of Iowa
+  url: https://www.uiowa.edu/
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include application of data science in medicine and healthcare.
 
 # Interests to show in About widget
 interests:
+- Airway regeneration
+- Mucocilliary clearance
 - Computational Biology
 - Molecular Dynamics Simulations
 - Molecular Biology 
@@ -76,7 +78,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="text-align:justify;">Lalit Kumar Gautam is working as Demonstrator at Central Sophisticated Instrumentation Cell (CSIC), Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, India. </p>
-<p style="text-align:justify;">He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. His doctoral project was focused on the role of polyphosphate kinase 1 (PPK1) in the virulence and pathogenesis of <i>Acinetobacter baumannii</i> and identification of high affinity inhibitor against this target enzyme. He got success in identifying the PPK1 inhibitor form approved drugs for their re-purposing. During his research training, he has published research and review articles in international journals of repute. Apart from research, he was actively engaged in laboratory management and teaching undergraduate classes during Ph.D. Before joining Ph.D., He worked in Dr. Rathore’s Lab as research fellow in Government of India funded research project at Gautam Buddha University, Greater Noida, India. There, he worked on toxin antitoxin (TA) modules in <i>Xenorhabdus nematophila</i> and characterized three TA modules, which is evident from his publications.</p> 
-<p style="text-align:justify;">Presently, he is engaged in management of lab activities and maintenance of advanced analytical instruments at PGIMER. Here he also operates confocal microscope for acquisition of bio-samples, HPLC for proteins analysis and qRT PCR. He teaches research methodologies to post graduate and Ph.D. students of research departments of the institute.</p>
+<p style="text-align:justify;">Lalit Kumar Gautam is presently working as Post Doctoral Scholar at University of Iowa, USA. </p>
+<p style="text-align:justify;">He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. </p> 
 

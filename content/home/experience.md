@@ -31,8 +31,11 @@ experience:
     date_start: '2022-07-18'
     date_end: ''
     description: |2-
-        
-        
+        * Area of Research/Expertise:
+        * Lung Regeneration, Multiciliogenesis, Mucociliary clearance
+        * Single-Cell Seq Analysis
+        * Bulk-RNA Seq Analysis
+                
   - title: Demonstrator
     company: PGIMER
     company_url: 'https://pgimer.edu.in/'
@@ -42,7 +45,7 @@ experience:
     date_end: '2022-07-04'
     description: |2-
         Responsibilities include:
-        * Aquisition and analysis of biological samples using Confocal Laser Scan Microscope, HPLC and Realtime PCR
+        * Analysis of biological samples using High throughput insrumentation (e.g. Confocal Microscope, HPLC, Realtime PCR etc.)
         * Management of lab activities and maintenance of advanced analytical instruments
         
         

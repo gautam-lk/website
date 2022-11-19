@@ -27,7 +27,7 @@ experience:
     company: University of Iowa
     company_url: 'https://uiowa.edu/'
     company_logo: the-university-of-iowa-vector-logo-2022
-    location: USA
+    location: Iowa City, USA
     date_start: '2022-07-18'
     date_end: ''
     description: |2-
@@ -40,7 +40,7 @@ experience:
     company: PGIMER
     company_url: 'https://pgimer.edu.in/'
     company_logo: pgimer-logo
-    location: Chandigarh
+    location: Chandigarh, India
     date_start: '2021-01-01'
     date_end: '2022-07-04'
     description: |2-

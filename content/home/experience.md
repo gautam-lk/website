@@ -26,7 +26,7 @@ experience:
   - title: Post Doctoral Scholar
     company: University of Iowa
     company_url: 'https://uiowa.edu/'
-    company_logo: 
+    company_logo: the-university-of-iowa-vector-logo-2022
     location: USA
     date_start: '2022-07-18'
     date_end: ''

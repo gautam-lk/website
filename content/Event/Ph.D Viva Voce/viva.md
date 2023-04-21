@@ -1,4 +1,3 @@
-
 ---
 title: Role of polyphosphate kinase in virulence and stress responses of Acinetobacter baumannii
 

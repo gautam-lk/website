@@ -78,5 +78,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="text-align:justify;">My area of research is airway regeneration repair with primary focus on understanding the mechanism of ciliary dysfunction in Chronic obstructive pulmonary disease. </p>
+<p style="text-align:justify;">My area of research is airway regeneration repair with primary focus on understanding the mechanism of ciliary dysfunction in chronic obstructive pulmonary disease. </p>
 

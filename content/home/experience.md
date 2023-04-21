@@ -23,18 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Post Doctoral Scholar
+  - title: Post Doctoral Research Scholar
     company: University of Iowa
     company_url: 'https://uiowa.edu/'
     company_logo: the-university-of-iowa-vector-logo-2022
-    location: Iowa City, USA
+    location: Iowa, USA
     date_start: '2022-07-18'
     date_end: ''
     description: |2-
-        * Area of Research/Expertise:
-        * Lung Regeneration, Multiciliogenesis, Mucociliary clearance
+        Area of Research:
+        * Lung disease, COPD
+        * Lung Regeneration
+        * Mucociliary clearance
+        * Multiciliogenesis 
+        Expertise:
+        * Animal Cell culture
+        * iPSCs
+        * Bioinformatics Pipeline: mRNA Analysis
         * Single-Cell Seq Analysis
-        * Bulk-RNA Seq Analysis
+        * genomic variation 
+        * R- programming
+  
                 
   - title: Demonstrator
     company: PGIMER

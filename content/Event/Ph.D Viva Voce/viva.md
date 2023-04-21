@@ -5,7 +5,7 @@ title: Role of polyphosphate kinase in virulence and stress responses of Acineto
 event: Ph.D Viva voce 
 event_url: NA
 
-location: BMS Block - I, Deaprtment of Biotechnology, Panjab University, Chandigarh 160014
+location: Panjab University
 address:
   street: South Campus, Sector 25
   city: 

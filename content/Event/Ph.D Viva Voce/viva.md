@@ -19,11 +19,11 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-12-29T11:00:00Z"
-date_end: ""2021-12-29T12:00:00Z" "
-all_day: false
+# date_end: ""2021-12-29T12:00:00Z" "
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
+# publishDate: "2021-01-01T00:00:00Z"
 
 authors:
   - admin
@@ -72,4 +72,4 @@ slides: ""
 projects: []
 ---
 
-"Lalit Kumar Gautam presented a research poster titled **Role of polyphosphate kinase in virulence and stress responses of Acinetobacter baumannii** at Deaprtment of Biotechnology, Panjab University, Chandigarh 160014."
+"Lalit Kumar Gautam sucessfully defended Viva-voce for thesis titled **Role of polyphosphate kinase in virulence and stress responses of Acinetobacter baumannii** at Deaprtment of Biotechnology, Panjab University, Chandigarh 160014."

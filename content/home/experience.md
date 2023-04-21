@@ -36,6 +36,7 @@ experience:
         * Lung Regeneration
         * Mucociliary clearance
         * Multiciliogenesis 
+    description: |2-
         Expertise:
         * Animal Cell culture
         * iPSCs

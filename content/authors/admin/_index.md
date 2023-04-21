@@ -78,6 +78,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="text-align:justify;">Lalit Kumar Gautam is presently working as Post Doctoral Scholar at University of Iowa, USA. </p>
-<p style="text-align:justify;">He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. </p> 
+<p style="text-align:justify;">Lalit Kumar Gautam is Post Doctoral Scholar at University of Iowa, USA. </p>
+# <p style="text-align:justify;">He has done his Ph.D. in Faculty of Science (Biotechnology) at Panjab University, India. </p> 
 

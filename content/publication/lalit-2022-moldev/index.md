@@ -1,47 +1,44 @@
 ---
-title: "Basic Science Perspective on Engineering and Modeling the Large Airways"
+title: "Unraveling the molecular mechanism of l-menthol against cervical cancer based on network pharmacology, molecular docking and in vitro analysis."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Harsimran Sidhu
 - admin
-- Noa C Harriot
-- Adrian M Caceres
-- Amy L Ryan
+- Neena Capalash
 
 # Author notes (optional)
 author_notes: ""
 
-date: "2023-05-18"
-doi: "10.1007/978-3-031-26625-6_5"
+date: "2022-04-25"
+doi: "10.1007/s11030-022-10429-1"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2023-05"
+# publishDate: "2022-04"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Advances in Experimental Medicine and Biology. (2023)"
-publication_short: "AEMB"
+publication: "*Molecular Diversity. (2022)"
+publication_short: "Mol Divers"
 
-abstract: "The airway epithelium provides a physical and biochemical barrier playing a key role in protecting the lung from infiltration of pathogens and irritants and is, therefore, crucial in maintaining tissue homeostasis and regulating innate immunity. Due to continual inspiration and expiration of air during breathing, the epithelium is exposed to a plethora of environmental insults. When severe or persistent, these insults lead to inflammation and infection. The effectiveness of the epithelium as a barrier is reliant upon its capacity for mucociliary clearance, immune surveillance, and regeneration upon injury. These functions are accomplished by the cells that comprise the airway epithelium and the niche in which they reside. Engineering of new physiological and pathological models of the proximal airways requires the generation of complex structures comprising the surface airway epithelium, submucosal gland epithelium, extracellular matrix, and niche cells, including smooth muscle cells, fibroblasts, and immune cells. This chapter focuses on the structure-function relationships in the airways and the challenges of developing complex engineered models of the human airway."
+abstract: "Cervical cancer is a major cause of gynecological related mortalities in developing countries. Cisplatin, a potent chemotherapeutic agent used for treating advanced cervical cancer exhibits side effects and resistance development. The current study was aimed to investigate the repurposing of l-menthol as a potential therapeutic drug against cervical cancer. L-menthol was predicted to be non-toxic with good pharmacokinetic properties based on SwissADME and pkCSM analysis. Subsequently, 543 and 1664 targets of l-menthol and cervical cancer were identified using STITCH, BATMAN-TCM, PharmMapper and CTD databases. STRING and Cytoscape analysis of the merged protein–protein interaction network revealed 107 core targets of l- menthol against cervical cancer. M-CODE identified highly connected clusters between the core targets which through KEGG analysis were found to be enriched in pathways related to apoptosis and adherence junctions. Molecular docking showed that l- menthol targeted E6, E6AP and E7 onco-proteins of HPV that interact and inactivate TP53 and Rb1 in cervical cancer, respectively. Molecular docking also showed good binding affinity of l-menthol toward proteins associated with apoptosis and migration. Molecular dynamics simulation confirmed stability of the docked complexes. In vitro analysis confirmed that l-menthol was cytotoxic towards cervical cancer CaSki cells and altered expression of TP53, Rb1, CDKN1A, E2F1, NFKB1, Akt-1, caspase-3, CDH1 and MMP-2 genes identified through network pharmacology approach."
 
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- Basal cells
-- Epithelium
-- Extracellular matrix
-- Inflammation
-- Mesenchyme
-- Regeneration
-- Large Airways
-- Lung Remodeling
+- l-menthol
+- Network pharmacology
+- Antiproliferation
+- Apoptosis
+- Anti-metastasis
+- Cervical cance
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: "View at Publisher"
-  url: "https://link.springer.com/chapter/10.1007/978-3-031-26625-6_5"
+  url: "https://link.springer.com/article/10.1007/s11030-022-10429-1"
 url_pdf: 
 url_code: ''
 url_dataset: ''

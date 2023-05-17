@@ -8,15 +8,16 @@ authors:
 - admin
 - Noa C Harriot
 - Adrian M Caceres
+- Amy L Ryan
 
 # Author notes (optional)
 author_notes: ""
 
-date: "2021-12-29"
-doi: ""
+date: "2023-05-18"
+doi: "10.1007/978-3-031-26625-6_5"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2021-01"
+# publishDate: "2023-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,30 +26,29 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ph.D Thesis (Panjab Univesity)"
-publication_short: "Ph.D Thesis (Panjab Univesity)"
+publication: "*Advances in Experimental Medicine and Biology, 2023"
+publication_short: "AEMB, 2023"
 
-abstract: "*Acinetobacter baumannii* is one of the most significant nosocomial pathogen responsible for substantial morbidity and mortality due to multidrug resistance. Polyphosphates (polyP) are important for the production of virulence factors and stress management in bacteria. PolyP is synthesized by polyphosphate kinase (PPK) which is highly conserved among microorganisms. In this study polyphosphate kinase 1 of *A. baumannii* ATCC 17978 (AbPPK1) was cloned and expressed in *E. coli* BL21 (DE3). Enzyme activity of 80 kDa recombinant AbPPK1 and its mutants, AbPPK1H443P and AbPPK1H443P-H601A was 299.86±66, 236.14±13.8 and 121±8.7 μM/min, respectively. Reduced activity of mutants highlighted the importance of active site histidines at position 443 and 601 for AbPPK1 activity. Virtual screening of synthetic and natural compounds and FDA approved drugs allowed the selection of etoposide and genistein which competitively inhibited AbPPK1 at IC50 of 27.53 and 24.38 μM, respectively. These molecules reduced the production of virulence factors in A. baumannii. There was significant (p≤0.05) reduction in biofilm formation and surface motility in *A. baumannii* ATCC 17978 and the clinical isolates. Genistein in combination with tobramycin further reduced biofilm formation in *A. baumannii*. Etoposide and genistein led to decrease in survival of *A. baumannii* under desiccation conditions. RNA polymerase sigma factor, rpoS, critical for survival and virulence, was down-regulated by etoposide and gensitein. The expression of exopolyphosphatase (PPX), polyP degrading enzyme was increased with concomitant reduction in cellular polyP level, critical for the production of virulence determinants. In the absence of PPK orthologue in humans, etoposide and genistein could be sought as novel therapeutic option to supplement the existing antibiotics against *A. baumannii*."
+abstract: "The airway epithelium provides a physical and biochemical barrier playing a key role in protecting the lung from infiltration of pathogens and irritants and is, therefore, crucial in maintaining tissue homeostasis and regulating innate immunity. Due to continual inspiration and expiration of air during breathing, the epithelium is exposed to a plethora of environmental insults. When severe or persistent, these insults lead to inflammation and infection. The effectiveness of the epithelium as a barrier is reliant upon its capacity for mucociliary clearance, immune surveillance, and regeneration upon injury. These functions are accomplished by the cells that comprise the airway epithelium and the niche in which they reside. Engineering of new physiological and pathological models of the proximal airways requires the generation of complex structures comprising the surface airway epithelium, submucosal gland epithelium, extracellular matrix, and niche cells, including smooth muscle cells, fibroblasts, and immune cells. This chapter focuses on the structure-function relationships in the airways and the challenges of developing complex engineered models of the human airway."
 
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- Drug Design
-- PPK1 inhibition
-- Repurposed drugs
-- biofilm
-- desiccation
-- etoposide
-- genistein
-- virulence
-
+- Basal cells
+- Epithelium
+- Extracellular matrix
+- Inflammation
+- Mesenchyme
+- Regeneration
+- Lung Remodeling
+- Regeneration
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
 - name: "View at Publisher"
-  url: "http://hdl.handle.net/10603/363396"
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-26625-6_5"
 url_pdf: 
 url_code: ''
 url_dataset: ''

@@ -28,7 +28,7 @@ publication_types: ["6"]
 publication: "Advances in Experimental Medicine and Biology, 2023"
 publication_short: "AEMB, 2023"
 
-abstract: ""
+abstract: "The airway epithelium provides a physical and biochemical barrier playing a key role in protecting the lung from infiltration of pathogens and irritants and is, therefore, crucial in maintaining tissue homeostasis and regulating innate immunity. Due to continual inspiration and expiration of air during breathing, the epithelium is exposed to a plethora of environmental insults. When severe or persistent, these insults lead to inflammation and infection. The effectiveness of the epithelium as a barrier is reliant upon its capacity for mucociliary clearance, immune surveillance, and regeneration upon injury. These functions are accomplished by the cells that comprise the airway epithelium and the niche in which they reside. Engineering of new physiological and pathological models of the proximal airways requires the generation of complex structures comprising the surface airway epithelium, submucosal gland epithelium, extracellular matrix, and niche cells, including smooth muscle cells, fibroblasts, and immune cells. This chapter focuses on the structure-function relationships in the airways and the challenges of developing complex engineered models of the human airway."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -9,7 +9,6 @@ authors:
 - Noa C Harriot
 - Adrian M Caceres
 - Amy L Ryan
-
 # Author notes (optional)
 author_notes: ""
 

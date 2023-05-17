@@ -25,7 +25,7 @@ doi: "10.1007/978-3-031-26625-6_5"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Advances in Experimental Medicine and Biology*, 2023"
+publication: "Advances in Experimental Medicine and Biology, 2023"
 publication_short: "AEMB, 2023"
 
 abstract: ""

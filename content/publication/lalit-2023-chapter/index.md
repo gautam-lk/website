@@ -9,7 +9,6 @@ authors:
 - Noa C Harriot
 - Adrian M Caceres
 - Amy L Ryan
-
 # Author notes (optional)
 author_notes: ""
 
@@ -23,7 +22,7 @@ doi: "10.1007/978-3-031-26625-6_5"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Advances in Experimental Medicine and Biology. (2023)"
@@ -42,7 +41,6 @@ tags:
 - Regeneration
 - Large Airways
 - Lung Remodeling
-
 # Display this page in the Featured widget?
 featured: true
 

@@ -47,7 +47,7 @@ item:
   organization_url: https://www.physiology.org
   title: "AJP-Regulatory Comparative and Integrative Physiology New Reviewer Training Session"
   url: ""
-    url: ""
+  
 - certificate_url: https://www.physiology.org
   date_end: ""
   date_start: "2023-05-12"
@@ -67,5 +67,5 @@ item:
 #  url: ""
 
 design:
-  columns: '4' 
+  columns: '2' 
 ---

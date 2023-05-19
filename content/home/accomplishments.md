@@ -45,7 +45,7 @@ item:
   description: ""
   organization: American Physiological Society
   organization_url: https://www.physiology.org
-  title: "AJP-Regulatory, Comparative and Integrative Physiology New Reviewer Training Session"
+  title: "AJP-Regulatory Comparative and Integrative Physiology New Reviewer Training Session"
   url: ""
     url: ""
 - certificate_url: https://www.physiology.org
@@ -57,9 +57,7 @@ item:
   title: "Reviewer Certificate Program"
   url: ""
   
-  
-  
-# - certificate_url: https://www.datacamp.com
+#- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
 #  date_start: "2020-07-01"
 #  description: ""

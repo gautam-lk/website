@@ -39,7 +39,7 @@ item:
   organization_url: https://www.coursera.org
   title: "Understanding Clinical Research: Behind the Statistics"
   url: ""
-- certificate_url: https://www.physiology.org
+- certificate_url: https://drive.google.com/file/d/1qCZLLIYDnz1arLsrqRClie-1kqTnLliy/view?usp=drivesdk
   date_end: ""
   date_start: "2023-05-16"
   description: ""
@@ -48,7 +48,7 @@ item:
   title: "AJP-Regulatory Comparative and Integrative Physiology New Reviewer Training Session"
   url: ""
   
-- certificate_url: https://www.physiology.org
+- certificate_url: https://drive.google.com/file/d/1qD3nQ2ZgevNAlFyfm27668JTr2VNh69_/view?usp=drivesdk
   date_end: ""
   date_start: "2023-05-12"
   description: ""

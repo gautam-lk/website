@@ -6,7 +6,7 @@ title: "Basic Science Perspective on Engineering and Modeling the Large Airways"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Noa C Harriot
+- Noa C Harriott
 - Adrian M Caceres
 - Amy L Ryan
 # Author notes (optional)

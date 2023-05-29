@@ -97,6 +97,10 @@ collections:
         name: "interests"
         required: false
         widget: "list"
+      - label: "Membership (shown in About widget)"
+        name: "membership"
+        required: false
+        widget: "list"       
       - label: Social links
         name: social
         required: false

@@ -35,6 +35,14 @@ education:
     institution: Tilka Manjhi Bhagalpur University
 #    year: 2010
 
+# Membership to show in About widget
+Membership:
+- American Physiological Society: Bethesda, Maryland, US
+- American Society for Microbiology: Washington D.C., District of Columbia, US
+- Indian Science Congress Association: Kolkata, West Bengal, IN
+- The Association of Microbiologists of India: New Delhi, IN
+- Molecular Biology 
+- Protein Biochemistry
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

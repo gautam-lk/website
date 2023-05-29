@@ -36,7 +36,7 @@ education:
 #    year: 2010
 
 # Membership to show in About widget
-Membership:
+membership:
 - American Physiological Society: Bethesda, Maryland, US
 - American Society for Microbiology: Washington D.C., District of Columbia, US
 - Indian Science Congress Association: Kolkata, West Bengal, IN

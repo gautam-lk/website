@@ -51,7 +51,7 @@ social:
   link: 'mailto:lalit_kumar1122@yahoo.in'
 - icon: twitter
   icon_pack: ai
-  link: https://twitter.com/lalitmanas
+  link: https://twitter.com/dr_lkgautam
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/2522897/lalit-kumar-gautam/

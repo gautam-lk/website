@@ -48,7 +48,7 @@ membership:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lalit_kumar1122@yahoo.in'
+  link: 'mailto:'
 - icon: twitter
   icon_pack: ai
   link: https://twitter.com/dr_lkgautam

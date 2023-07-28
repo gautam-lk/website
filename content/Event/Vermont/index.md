@@ -68,4 +68,4 @@ slides: ""
 projects: []
 ---
 
-"Lalit Kumar Gautam presented a research poster titled **Notch inhibition influences the activity of multicilin in regulating cilia assembly and function in human airway epithelial cells** at 6th international DDNPTM conference by the Department of Natural Products."
+"Lalit Kumar Gautam presented a research titled **Notch inhibition influences the activity of multicilin in regulating cilia assembly and function in human airway epithelial cells** at Stem Cells, Cell Therapies and Bioengineering in Lung Biology and Diseases Conference held at the University of Vermont."

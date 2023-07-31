@@ -49,7 +49,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/lalitmanas
+  url: https://twitter.com/dr_lkgautam
 url_code: ""
 url_pdf: ""
 url_slides: ""

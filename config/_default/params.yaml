@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: 'Lalit Kumar Gautam'
 org_name: 'University of Iowa'
 description: 'Personal website - Portfolio'
-twitter: 'https://twitter.com/lalitmanas'
+twitter: 'https://twitter.com/dr_lkgautam'
 
 # Contact (edit or remove options as required)
 
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/lalitmanas'
+    link: 'https://twitter.com/dr_lkgautam'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me

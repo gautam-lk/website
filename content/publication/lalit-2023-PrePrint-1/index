@@ -1,19 +1,22 @@
 ---
-title: "Structural insight into substrate binding of Acinetobacter baumannii polyphosphate-AMP phosphotransferase (PPK2), a novel drug target"
+title: "RBL2 represses the transcriptional activity of Multicilin to inhibit multiciliogenesis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Erik J. Quiroz
+- Seongjae Kim
 - admin
-- Prince Sharma 
-- Neena Capalash
+- Zea Borok
+- Christopher Kintner 
+- Amy L. Ryan
 
 # Author notes (optional)
 author_notes: ""
 
-date: "2022-08-09"
-doi: "10.1016/j.bbrc.2022.07.090"
+date: "2023-08-01"
+doi: "10.1101/2023.08.04.551992v1"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-01"
@@ -22,22 +25,22 @@ doi: "10.1016/j.bbrc.2022.07.090"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biochemical and Biophysical Research Communications (2022)"
-publication_short: "BBRC"
+publication: "bioRxiv (2023)"
+publication_short: "bioRxiv"
 
-abstract: "Acinetobacter baumannii is an opportunistic pathogen known for high morbidity and mortality. It causes life-threatening infections, such as ventilator-associated pneumonia (VAP), bacteremia, meningitis, wound and urinary tract infections (UTI). Increase in carbapenem resistance exhibited by A. baumannii has accentuated the need for novel targets for effective treatment. Despite the pronounced relevance of PPK2 as a pathogenicity determinant in several pathogens, it has not been explored as a drug target in A. baumannii. The present study was piloted to investigate the substrate binding by A. baumannii PPK2 (AbPPK2), a two-domain Class II polyphosphate kinase 2. A homology model of AbPPK2 was developed and validated for molecular docking of ATP and ADP in the predicted binding pocket. Further analysis of AbPPK2 revealed a set of common residues in the catalytic cleft interacting with ATP and ADP which would be useful for the screening of inhibitors against A. baumannii."
+abstract: "A core pathophysiologic feature underlying many respiratory diseases is multiciliated cell dysfunction, leading to inadequate mucociliary clearance. Due to the prevalence and highly variable etiology of mucociliary dysfunction in respiratory diseases, it is critical to understand the mechanisms controlling multiciliogenesis that may be targeted to restore functional mucociliary clearance. Multicilin, in a complex with E2F4, is necessary and sufficient to drive multiciliogenesis in airway epithelia, however this does not apply to all cell types, nor does it occur evenly across all cells in the same cell population. In this study we further investigated how co-factors regulate the ability of Multicilin to drive multiciliogenesis. Combining data in mouse embryonic fibroblasts and human bronchial epithelial cells, we identify RBL2 as a repressor of the transcriptional activity of Multicilin. Knockdown of RBL2 in submerged cultures or phosphorylation of RBL2 in response to apical air exposure, in the presence of Multicilin, allows multiciliogenesis to progress. These data demonstrate a dynamic interaction between RBL2 and Multicilin that regulates the capacity of cells to differentiate and multiciliate. Identification of this mechanism has important implications for facilitating MCC differentiation in diseases with impaired mucociliary clearance."
 
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- PPK2
-- Drug target
-- MD Simulation
-- Polyphosphate 
-- Homology Modeling
+- airway differentiation
+- human airway epithelial cells
+- MCIDAS
+- multiciliated cells
+- transcription factor E2F4
 
 
 # Display this page in the Featured widget?
@@ -46,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: "View at Publisher"
-  url: "https://www.sciencedirect.com/science/article/pii/S0006291X22010695"
+  url: "https://www.biorxiv.org/content/10.1101/2023.08.04.551992v1"
 url_pdf: 
 url_code: ''
 url_dataset: ''

@@ -57,8 +57,6 @@ item:
   title: "Imaris 10.1 - Trainable AI Image Analysis for Everyone"
   url: ""
 
-Imaris 10.1 - Trainable AI Image Analysis for Everyone 
-
 - certificate_url: https://drive.google.com/file/d/1qD3nQ2ZgevNAlFyfm27668JTr2VNh69_/view?usp=drivesdk
   date_end: ""
   date_start: "2023-05-12"

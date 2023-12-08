@@ -47,7 +47,18 @@ item:
   organization_url: https://www.physiology.org
   title: "AJP-Regulatory Comparative and Integrative Physiology New Reviewer Training Session"
   url: ""
-  
+
+- certificate_url: https://drive.google.com/file/d/1nyK1iUhobBC6zLOkaz5dOEDoVea6iKF8/view?usp=sharing
+  date_end: ""
+  date_start: "2023-12-07"
+  description: ""
+  organization: Oxford instruments | Andor Technology
+  organization_url: https://imaris.oxinst.com/
+  title: "Imaris 10.1 - Trainable AI Image Analysis for Everyone"
+  url: ""
+
+Imaris 10.1 - Trainable AI Image Analysis for Everyone 
+
 - certificate_url: https://drive.google.com/file/d/1qD3nQ2ZgevNAlFyfm27668JTr2VNh69_/view?usp=drivesdk
   date_end: ""
   date_start: "2023-05-12"

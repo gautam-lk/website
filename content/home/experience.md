@@ -57,7 +57,7 @@ experience:
     date_end: '2022-07-04'
     description: |2-
         Responsibilities include:
-        * Analysis of biological samples using High throughput insrumentation (e.g. Confocal Microscope, HPLC, Realtime PCR etc.)
+        * Analysis of biological samples using High throughput instrumentation (e.g. Confocal Microscope, Realtime PCR etc.)
         * Management of lab activities and maintenance of advanced analytical instruments
         
         

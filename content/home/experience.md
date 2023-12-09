@@ -40,10 +40,12 @@ experience:
         Expertise:
         * Animal Cell culture
         * iPSCs
-        * Bioinformatics Pipeline: mRNA Analysis
-        * Single-Cell Seq Analysis
+        * Spatial transcriptomics
+        * Single-Cell & RNA Bulk Seq Analysis
+        * Ingenuity Pathway Analysis
         * genomic variation 
-        * R- programming
+        * R-programming
+        * Pathway Enrichment Analysis
   
                 
   - title: Demonstrator

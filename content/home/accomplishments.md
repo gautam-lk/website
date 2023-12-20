@@ -65,7 +65,16 @@ item:
   organization_url: https://www.physiology.org
   title: "Reviewer Certificate Program"
   url: ""
-  
+
+- certificate_url: https://drive.google.com/file/d/1zqSF-1dRhtUH_KoNka4gD8k6OWQZr7mm/view?usp=sharing
+  date_end: ""
+  date_start: "2023-20-12"
+  description: ""
+  organization: LinkedIn Learning
+  organization_url: https://www.linkedin.com/
+  title: "Nano Tips for Interpersonal Communication"
+  url: "https://www.linkedin.com/learning/certificates/c9b2ba6db7f57543b510152e56ea732cb21f403fb2d5a6d27d4e8543716b3a3f?u=42459020"
+    
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
 #  date_start: "2020-07-01"

@@ -31,14 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Data Science in Stratified Healthcare and Precision Medicine
   url: ""
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-08-13"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: "Understanding Clinical Research: Behind the Statistics"
-  url: ""
+# - certificate_url: https://www.coursera.org
+#  date_end: ""
+#  date_start: "2021-08-13"
+#  description: ""
+#  organization: Coursera
+#  organization_url: https://www.coursera.org
+#  title: "Understanding Clinical Research: Behind the Statistics"
+#  url: ""
 - certificate_url: https://drive.google.com/file/d/1qCZLLIYDnz1arLsrqRClie-1kqTnLliy/view?usp=drivesdk
   date_end: ""
   date_start: "2023-05-16"

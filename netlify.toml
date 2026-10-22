@@ -13,3 +13,7 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify"
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '.*']
